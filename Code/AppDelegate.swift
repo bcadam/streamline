@@ -9,9 +9,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     // MARK TODO: Before first launch, update LayerAppIDString, ParseAppIDString or ParseClientKeyString values
     // TODO:If LayerAppIDString, ParseAppIDString or ParseClientKeyString are not set, this app will crash"
-    let LayerAppIDString: NSURL! = NSURL(string: "layer:///apps/staging/5e594efe-ded1-11e4-8ee4-e3d900000e81")
-    let ParseAppIDString: String = "9us9WVAOeboE3QSgRuXPwe0enLGgnaBGxoqNsL6R"
-    let ParseClientKeyString: String = "pc0AD9flDK8XTlFuktkBmNQuCE0L3xr90i48vCtv"
+    let LayerAppIDString: NSURL! = NSURL(string: "layer:///apps/staging/792573d2-71e5-11e5-be6b-f95800000e96")
+    let ParseAppIDString: String = "RlhyCEshFmZznzkWyBxoUQJ7etVtKfCAZDx3kQab"
+    let ParseClientKeyString: String = "jt86fih430R0GsVeGoS4tJVKbboyfyjV9veF6Jk2"
     
     //Please note, You must set `LYRConversation *conversation` as a property of the ViewController.
     var conversation: LYRConversation!

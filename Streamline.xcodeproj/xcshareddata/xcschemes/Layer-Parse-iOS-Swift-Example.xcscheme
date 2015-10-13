@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C8919A491B2198C900DC4EED"
-               BuildableName = "Layer-Parse-iOS-Swift-Example.app"
-               BlueprintName = "Layer-Parse-iOS-Swift-Example"
-               ReferencedContainer = "container:Layer-Parse-iOS-Swift-Example.xcodeproj">
+               BuildableName = "Streamline.app"
+               BlueprintName = "Streamline"
+               ReferencedContainer = "container:Streamline.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C8919A5E1B2198C900DC4EED"
-               BuildableName = "Layer-Parse-iOS-Swift-ExampleTests.xctest"
-               BlueprintName = "Layer-Parse-iOS-Swift-ExampleTests"
-               ReferencedContainer = "container:Layer-Parse-iOS-Swift-Example.xcodeproj">
+               BuildableName = "Streamline.xctest"
+               BlueprintName = "StreamlineTests"
+               ReferencedContainer = "container:Streamline.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C8919A5E1B2198C900DC4EED"
-               BuildableName = "Layer-Parse-iOS-Swift-ExampleTests.xctest"
-               BlueprintName = "Layer-Parse-iOS-Swift-ExampleTests"
-               ReferencedContainer = "container:Layer-Parse-iOS-Swift-Example.xcodeproj">
+               BuildableName = "Streamline.xctest"
+               BlueprintName = "StreamlineTests"
+               ReferencedContainer = "container:Streamline.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C8919A491B2198C900DC4EED"
-            BuildableName = "Layer-Parse-iOS-Swift-Example.app"
-            BlueprintName = "Layer-Parse-iOS-Swift-Example"
-            ReferencedContainer = "container:Layer-Parse-iOS-Swift-Example.xcodeproj">
+            BuildableName = "Streamline.app"
+            BlueprintName = "Streamline"
+            ReferencedContainer = "container:Streamline.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C8919A491B2198C900DC4EED"
-            BuildableName = "Layer-Parse-iOS-Swift-Example.app"
-            BlueprintName = "Layer-Parse-iOS-Swift-Example"
-            ReferencedContainer = "container:Layer-Parse-iOS-Swift-Example.xcodeproj">
+            BuildableName = "Streamline.app"
+            BlueprintName = "Streamline"
+            ReferencedContainer = "container:Streamline.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -99,9 +99,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C8919A491B2198C900DC4EED"
-            BuildableName = "Layer-Parse-iOS-Swift-Example.app"
-            BlueprintName = "Layer-Parse-iOS-Swift-Example"
-            ReferencedContainer = "container:Layer-Parse-iOS-Swift-Example.xcodeproj">
+            BuildableName = "Streamline.app"
+            BlueprintName = "Streamline"
+            ReferencedContainer = "container:Streamline.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

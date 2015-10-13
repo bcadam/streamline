@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Streamline": {
+      "applicationId": "RlhyCEshFmZznzkWyBxoUQJ7etVtKfCAZDx3kQab"
+    },
+    "_default": {
+      "link": "Streamline"
+    }
+  }
+}

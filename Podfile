@@ -1,6 +1,6 @@
 platform :ios, '7.0'
 
-target 'Layer-Parse-iOS-Swift-Example' do
+target 'Streamline' do
   pod 'LayerKit', '~> 0.16.0'
   pod 'Atlas', '~> 1.0.11'
   pod 'Parse', '~> 1.8.0'
